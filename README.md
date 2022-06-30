@@ -1,2 +1,2 @@
 # Sliding-gate
-The work in managing sliding gate in ST.
+Было обеспечено управление отктатными воротами в среде CoDeSyS с использованием языка ST.
